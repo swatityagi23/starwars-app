@@ -22,9 +22,9 @@ This is a simple web application that displays Star Wars characters and their de
 
 ## Setup
 
-1.Clone the repository:
+1. Clone the repository: https://github.com/swatityagi23/starwars-app.git
 
-2.Navigate to the root folder and install all dependencies : npm install
+2. Navigate to the root folder and install all dependencies : npm install
 
 3. Start Development Mode : npm start
    Open http://localhost:3000 to view it in the browser.
